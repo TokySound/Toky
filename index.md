@@ -9,4 +9,4 @@
 
 [IG](https://www.instagram.com/toky_tsao/?utm_source=qr)
 
-[目錄](https://tokysound.github.io/Toky/About-me/%E7%9B%AE%E9%8C%84)
+[目錄](https://tokysound.github.io/Toky/catalogue.md)

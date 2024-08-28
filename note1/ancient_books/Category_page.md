@@ -1,4 +1,4 @@
-[《易經》](https://tokysound.github.io/Toky/note1/ancient_books/易經文)
+[《易經》](https://TokyStories.github.io/Toky/note1/ancient_books/易經文)
 
 
 
